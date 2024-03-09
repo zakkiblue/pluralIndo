@@ -1,6 +1,6 @@
 <?php
 
-namespace Zakki\PluralIndo;
+namespace Zakki\Plural;
 
 use Doctrine\Inflector\InflectorFactory;
 use Doctrine\Inflector\Rules\Pattern;
