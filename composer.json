@@ -1,0 +1,20 @@
+{
+    "name": "zakki/plural",
+    "description": "Coba plural Indonesia",
+    "type": "library",
+    "require": {
+        "doctrine/inflector": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zakki\\Plural\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zakki Mahatir",
+            "email": "zakkimahatir77@gmail.com"
+        }
+    ]
+}
